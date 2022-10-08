@@ -1,0 +1,7 @@
+# ninja log v5
+0	172	1664430070798848241	QtTest3_autogen/timestamp	a45b50724e2c6e9a
+173	1170	1664430071795845734	CMakeFiles/QtTest3.dir/Sender.cpp.o	9a0856c6dbc8359f
+172	1203	1664430071827845653	CMakeFiles/QtTest3.dir/QtTest3_autogen/mocs_compilation.cpp.o	1feffc4fa14907cf
+173	1231	1664430071856845580	CMakeFiles/QtTest3.dir/main.cpp.o	bd1fe05e12944e70
+173	1234	1664430071859845573	CMakeFiles/QtTest3.dir/Receiver.cpp.o	fd77e96abbad528d
+1234	1343	1664430071967845301	QtTest3	e7245b0cffd172a2

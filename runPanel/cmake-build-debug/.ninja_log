@@ -1,0 +1,9 @@
+# ninja log v5
+0	126	1664434386410247898	runPanel_autogen/timestamp	13200e163d3d234e
+0	126	1664434386410247898	runPanel_autogen/mocs_compilation.cpp	13200e163d3d234e
+0	126	1664434386410247898	/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/runPanel_autogen/timestamp	13200e163d3d234e
+0	126	1664434386410247898	/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/runPanel_autogen/mocs_compilation.cpp	13200e163d3d234e
+126	1084	1664434387369243762	CMakeFiles/runPanel.dir/runPanel_autogen/mocs_compilation.cpp.o	7eb49fed039edb19
+126	1230	1664434387515243132	CMakeFiles/runPanel.dir/mainwindow.cpp.o	dd8963ade566a821
+126	1248	1664434387533243054	CMakeFiles/runPanel.dir/main.cpp.o	a1f571fd6811531e
+1248	1508	1664434387791241941	runPanel	fd469a55a57faf78

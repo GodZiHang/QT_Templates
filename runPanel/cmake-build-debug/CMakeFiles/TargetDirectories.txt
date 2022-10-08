@@ -1,0 +1,9 @@
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/runPanel.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/install.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/install/local.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/runPanel_autogen_timestamp_deps.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/runPanel/cmake-build-debug/CMakeFiles/runPanel_autogen.dir

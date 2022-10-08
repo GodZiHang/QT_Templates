@@ -1,0 +1,9 @@
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/install/strip.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/install/local.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/install.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/list_install_components.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/rebuild_cache.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/edit_cache.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/QtTest3.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/QtTest3_autogen_timestamp_deps.dir
+/home/cdsoft_zihang/workspace/QT_templates/learningQt/QtTest3/CMakeFiles/QtTest3_autogen.dir
