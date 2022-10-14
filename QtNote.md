@@ -286,8 +286,17 @@ int main(void) {
     
     for(QString &author : authors)
         qDenug() << author;
-    
+    ...
+    // QStringList
+    QString string = "coin, book, pencil, clock, bookmark";
+    QStringList items = string.split(",");
+    // Qt提供了Java风格的const迭代器QStringListIterator
+    QStringListIterator it(items);
+    while(it.hasNext())
+        qDebug << it.next().trimmed();
 }
+
+
 ```
 
 
